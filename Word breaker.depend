@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1435638700 source:d:\google ¶³ºÝµwºÐ\programs\wordbreaker\main.cpp
+	<iostream>
+	<string>
+	"trie.h"
+
+1435638674 source:d:\google ¶³ºÝµwºÐ\programs\wordbreaker\trie.cpp
+
+1435639184 d:\google ¶³ºÝµwºÐ\programs\wordbreaker\trie.h
+	<iostream>
+	<vector>
+	<string>
+	"trieNode.h"
+
+1435639261 d:\google ¶³ºÝµwºÐ\programs\wordbreaker\trienode.h
+
+1435828731 source:d:\googledrive\programs\wordbreaker\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<vector>
+	<algorithm>
+	<utility>
+	"Timer/Timer.h"
+	"trie/trie.h"
+
+1435674507 d:\googledrive\programs\wordbreaker\trie.h
+	<string>
+	<vector>
+	<utility>
+	"trieNode.h"
+
+1435658208 d:\googledrive\programs\wordbreaker\trienode.h
+
+1165553082 source:d:\googledrive\programs\wordbreaker\timer.cpp
+	"Timer.h"
+	<stdlib.h>
+
+1137120538 d:\googledrive\programs\wordbreaker\timer.h
+	<windows.h>
+	<sys/time.h>
+
+1165553082 source:d:\googledrive\programs\wordbreaker\timer\timer.cpp
+	"Timer.h"
+	<stdlib.h>
+
+1137120538 d:\googledrive\programs\wordbreaker\timer\timer.h
+	<windows.h>
+	<sys/time.h>
+
+1435827943 d:\googledrive\programs\wordbreaker\trie\trie.h
+	<string>
+	<vector>
+	<utility>
+	"trieStruct.h"
+	"trieNode.h"
+
+1435827520 d:\googledrive\programs\wordbreaker\trie\triestruct.h
+	<string>
+
+1435828854 d:\googledrive\programs\wordbreaker\trie\trienode.h
+

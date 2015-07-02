@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1435808368 source:d:\google ¶³ºÝµwºÐ\programs\wordbreaker\main-noweight.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	"trie/trie.h"
+
+1435674507 d:\google ¶³ºÝµwºÐ\programs\wordbreaker\trie\trie.h
+	<string>
+	<vector>
+	<utility>
+	"trieNode.h"
+
+1435658208 d:\google ¶³ºÝµwºÐ\programs\wordbreaker\trie\trienode.h
+

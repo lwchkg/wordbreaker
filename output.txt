@@ -1,0 +1,14 @@
+Number of words after reading words-10.txt : 4101
+Number of words after reading words-20.txt : 11329
+Number of words after reading words-35.txt : 43292
+Number of words after reading words-40.txt : 49406
+Number of words after reading words-50.txt : 87966
+
+Time elapsed in reading dictionary: 0.923926s
+
+Enter the string to be broken into words: 
+
+Result:
+a novel is along narrative normally in prose which describes fictional characters and events usually in the form of a sequential story while i an watt in the rise of the novel 1957 suggests that the novel came into being in the early 18 th century the genre has also been described as possessing a continuous and comprehensive history of about two thousand years with historical roots in classical greece and rome medieval early modern romance and in the tradition of the novel lathe latter an italian word used to describe short stories supplied the present generic english term in the 18 th century miguel de cervantes author of don quixote is frequently cited as the first significant europe an novelist of the modern era the first part of don quixote was published in 1605 while a more precise definition of the genre is difficult the main elements that critics discuss are how the narrative and especially the plot is constructed the themes settings and characterization how language is used and the way that plot character and setting relate to reality the romance is a related long prose narrative w alter scott defined it as a fictitious narrative in prose or verse the interest of which turns upon marvellous and uncommon incidents whereas in the novel the events are accommodated to the ordinary train of human events and the modern state of society however many romances including the historical romances of scott emily brontes wu the ring heights and her man melvilles mo by dick are also frequently called novels and scott describes romance as a kind red term romance as defined here should not be confused with the genre fiction love romance or romance novel other europe an languages do not distinguish between romance and novel a novel isle rom and err o ma nil roman z o 
+
+Time elapsed in splitting: 0.00478324s
